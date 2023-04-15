@@ -43,9 +43,6 @@ print(agent_model)
 
 '''
 
-
-
-import numpy as np
 n_max = 10
 steps_model = []
 
